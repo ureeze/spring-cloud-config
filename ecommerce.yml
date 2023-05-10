@@ -3,4 +3,4 @@ token:
   secret: MyNickNameisErjuerAndNameisMinsu
 
 gateway:
-  ip: 192.168.191.250
+  ip: 127.0.0.1
