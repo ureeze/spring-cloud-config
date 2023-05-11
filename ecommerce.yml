@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: MyNickNameisErjuerAndNameisMinsuChange
+  secret: MyNickNameisErjuerAndNameisMinsu
 
 gateway:
   ip: 127.0.0.1
