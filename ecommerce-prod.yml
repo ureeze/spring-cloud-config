@@ -3,4 +3,4 @@ token:
   secret: MyNickNameisErjuerAndNameisMinsuProd
 
 gateway:
-  ip: 127.0.0.1
+  ip: 192.168.191.250
